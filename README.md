@@ -1,4 +1,4 @@
-# Claude-Regulatory-Self-Audit-Suite
+# Claude Regulatory Self Audit Suite
 > ## 🜏 Update:  
 > Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
 >
